@@ -20,5 +20,9 @@ use terminal insert:
 ``$ ssh user_name@ip_adress
 ``  
 ### 2. use MobaXterm (recommend) 
-1. Dowonload MobaXterm form web.  
+1. Dowonload MobaXterm from web.  
 2. use MobaXterm create a SSHsection. (ok)
+---
+## supplement  (VNC setting)
+1. open VNC : same as above
+2. Download realVNC from web.
